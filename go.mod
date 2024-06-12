@@ -1,4 +1,4 @@
-module terminal-chat-app
+module github.com/tianyueli8227/terminal-chat
 
 go 1.22.2
 
